@@ -219,7 +219,7 @@ textarea:focus {
 .map__pin::after {
   content: '';
 
-  position: absolute;
+  position: fixed;
   left: 50%;
   top: 100%;
 
